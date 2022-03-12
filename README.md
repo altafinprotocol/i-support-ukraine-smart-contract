@@ -1,3 +1,7 @@
+I Support Ukraine Verified Donation NFT 🇺🇦 Free Mint PFP NFT for any address that donated to the Ukraine Donation address before block 14369361 (Mar-12-2022 02:50:01 AM +UTC) ➡️ https://isupportukraine.xyz 
+
+Haven’t donated yet? No problem, one click donate and mint with a contribution of more than 0.001 ETH. All funds rerouted directly to the Ukraine Donation address.
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
