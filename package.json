@@ -59,6 +59,6 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.6.0",
-    "@openzeppelin/contracts": "^4.5.0"
+    "@openzeppelin/contracts": "^4.7.3"
   }
 }
